@@ -132,7 +132,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn nltk wordcloud
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone <https://github.com/ImAbhijeetPanda/Netflix-Movies-and-TV-Shows-Clustering>
+   git clone https://github.com/ImAbhijeetPanda/Netflix-Movies-and-TV-Shows-Clustering
    ```
 2. Install the required libraries.
 3. Open the notebook `Netflix_Unsupervised_ML.ipynb` and run the cells sequentially.
@@ -146,7 +146,16 @@ The project successfully clusters Netflix titles into meaningful groups based on
 ---
 
 ## Credits
-This project is authored and maintained by **Abhijeet Panda**.
+This project is authored and maintained by **[Abhijeet Panda](https://github.com/ImAbhijeetPanda)**.
+
+## Contact
+
+For any questions or feedback, feel free to reach out:
+
+- **Email**: [iamabhijeetpanda@gmail.com](mailto:iamabhijeetpanda@gmail.com)
+- **LinkedIn**: [Abhijeet Panda](https://www.linkedin.com/in/imabhijeetpanda)
+- **GitHub**: [ImAbhijeetPanda](https://github.com/ImAbhijeetPanda)
+
 
 
 
