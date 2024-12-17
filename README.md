@@ -1,4 +1,4 @@
-# Netflix Movies and TV Shows Clustering
+# Netflix Movies and TV Shows Clustering ML
 
 ## Overview
 This project uses **unsupervised machine learning** to analyze and cluster Netflix movies and TV shows using various data visualization, text preprocessing, and clustering techniques.
