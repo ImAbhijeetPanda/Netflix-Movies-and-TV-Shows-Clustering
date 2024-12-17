@@ -23,7 +23,7 @@ The dataset used contains details about Netflix movies and TV shows, including a
 
 ### 1. Data Preprocessing
 The following steps were performed to clean and preprocess the data:
-```plaintext
+
 ├── Loading the Data
 │   ├── Read the dataset using pandas.
 ├── Handling Missing Values
@@ -42,11 +42,11 @@ The following steps were performed to clean and preprocess the data:
 │   ├── Filtered or capped extreme values to reduce skewness.
 ├── Standardizing Numerical Columns
 │   ├── Scaled features such as 'release_year' and 'duration' using StandardScaler.
-```
+
 
 ### 2. Data Visualization
 The following visualizations were created to better understand the data:
-```plaintext
+
 ├── Heatmap of Missing Values
 ├── Bar Chart of Movies vs. TV Shows
 ├── Top 10 Directors by Movie Count
@@ -57,11 +57,11 @@ The following visualizations were created to better understand the data:
 ├── Boxplots for Numerical Features (Outlier Detection)
 ├── Pair Plots for Correlation between Numerical Features
 ├── Count Plots for Year-Wise Content Release
-```
+
 
 ### 3. Text Preprocessing
 The following steps were applied to prepare textual data for modeling:
-```plaintext
+
 ├── Text Cleaning
 │   ├── Removed punctuation, special characters, and extra whitespaces.
 ├── Tokenization
@@ -74,11 +74,11 @@ The following steps were applied to prepare textual data for modeling:
 │   ├── Converted text into numerical form using Term Frequency-Inverse Document Frequency.
 ├── Handling Multi-Valued Text Columns
 │   ├── Exploded and vectorized columns like 'cast' and 'listed_in'.
-```
+
 
 ### 4. Model Building
 The following steps were performed to build and evaluate clustering models:
-```plaintext
+
 ├── Dimensionality Reduction
 │   ├── Applied Principal Component Analysis (PCA) to reduce feature dimensions.
 │   ├── Reduced the TF-IDF vectorized text features for better efficiency.
@@ -94,7 +94,7 @@ The following steps were performed to build and evaluate clustering models:
 │   ├── Calculated Silhouette Scores to measure clustering performance.
 ├── Saving the Best Model
 │   ├── Saved the best-performing model using the Pickle library for reuse.
-```
+
 
 ---
 
