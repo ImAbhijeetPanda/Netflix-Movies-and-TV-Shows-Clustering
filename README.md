@@ -23,7 +23,7 @@ The dataset used contains details about Netflix movies and TV shows, including a
 
 ### 1. Data Preprocessing
 The following steps were performed to clean and preprocess the data:
-
+```
 ├── Loading the Data
 │   ├── Read the dataset using pandas.
 ├── Handling Missing Values
@@ -42,7 +42,7 @@ The following steps were performed to clean and preprocess the data:
 │   ├── Filtered or capped extreme values to reduce skewness.
 ├── Standardizing Numerical Columns
 │   ├── Scaled features such as 'release_year' and 'duration' using StandardScaler.
-
+```
 
 ### 2. Data Visualization
 The following visualizations were created to better understand the data:
